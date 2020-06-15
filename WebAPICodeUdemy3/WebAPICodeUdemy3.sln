@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPICodeUdemy3", "WebAPICodeUdemy3\WebAPICodeUdemy3.csproj", "{DCEEC238-0EE0-4250-A3A2-9E6D7CB85FEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCEEC238-0EE0-4250-A3A2-9E6D7CB85FEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCEEC238-0EE0-4250-A3A2-9E6D7CB85FEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCEEC238-0EE0-4250-A3A2-9E6D7CB85FEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCEEC238-0EE0-4250-A3A2-9E6D7CB85FEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3113E19C-6BD7-4D3E-8807-27930ABD8044}
+	EndGlobalSection
+EndGlobal
